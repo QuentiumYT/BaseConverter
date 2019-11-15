@@ -11,11 +11,11 @@
 
 >#### Convert any bases in an other one you choose (Binary, Octal, Decimal, Hexadecimal, BCD).
 <br>
-![](https://quentium.fr/programs/Github/BaseConverter.gif)
+<p align="center"><img src="https://quentium.fr/programs/Github/BaseConverter.gif"></p>
 
 ## 📥 Installation
 
-- Download the source code [here](https://github.com/QuentiumYT/BaseConverter/archive/master.zip) and run `BaseConverter.pyw` on your computer (you will need socket, platform, psutil, wmi and ctypes modules)
+- Download the source code [here](https://github.com/QuentiumYT/BaseConverter/archive/master.zip) and run `BaseConverter.pyw` on your computer (you will need PIL (Pillow) module)
 - Download the 64bits compiled executable [here](https://quentium.fr/download.php?file=BaseConverter.exe)!
 - Download the 32bits compiled executable [here](https://quentium.fr/download.php?file=BaseConverter-32.exe)!
 
